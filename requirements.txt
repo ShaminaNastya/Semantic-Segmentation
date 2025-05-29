@@ -1,10 +1,17 @@
-torch
-torchvision
-segmentation-models-pytorch
-timm
-matplotlib
+Список всего, что юзалось:
+os
+urllib.request
+zipfile
+PIL
 numpy
 pandas
-scikit-learn
+torch
+torchvision.transforms
+torch.utils.data
+matplotlib.pyplot
+segmentation_models_pytorch
+torch.nn
+torch.optim
 tqdm
-Pillow
+transformers
+time
